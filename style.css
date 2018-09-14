@@ -1,0 +1,24 @@
+body {
+    background-image: url('images/shia lebeouf.jpg');
+    background-color:white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color:white;
+    font-size:10em;
+    font-family: courier;
+    position: relative;
+    top: 37vh;
+    text-align:center;
+}
+
+.nike{
+    height:10%;
+    width:auto;
+    display: block;
+    margin: auto;
+    padding-top: 40vh;
+}
